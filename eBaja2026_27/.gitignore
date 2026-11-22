@@ -1,0 +1,11 @@
+*-backups/
+*.bak
+*.bck
+*_autosave-*
+*.lck
+*.kicad_prl
+*.net
+*.erc
+*.drc
+*.rpt
+fp-info-cache
