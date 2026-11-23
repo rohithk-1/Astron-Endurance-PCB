@@ -7293,7 +7293,7 @@
 		(uuid "e4464845-d590-40c1-bbc3-38e84227e148")
 	)
 	(embedded_fonts no)
-	(model "D:/Astron work 2026/PCB Design/download/STM32/Kicad-STM32-master/Kicad-STM32-master/Packages3d/YAAJ_BlackPill_PinHeaders_B_SWD/YAAJ_BlackPill_PinHeaders_B_SWD_cp.step"
+	(model "D:/Astron work 2026/PCB Design/download/STM32/Kicad-STM32-master/Kicad-STM32-master/Packages3d/YAAJ_BluePill_No_Headers/YAAJ_BluePill_No_Headers_cp.step"
 		(offset
 			(xyz 0 0 0)
 		)
@@ -7301,7 +7301,18 @@
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz -0 -0 -0)
+			(xyz 0 0 0)
+		)
+	)
+	(model "D:/Astron work 2026/PCB Design/download/STM32/Kicad-STM32-master/Kicad-STM32-master/Packages3d/YAAJ_BluePill_PinHeaders_B_SWD/YAAJ_BluePill_PinHeaders_B_SWD_cp.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
 		)
 	)
 )
